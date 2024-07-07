@@ -1,4 +1,4 @@
 # Godot 4+ specific ignores
 .godot/
 
-gdextension/godot-cpp/*
+gdextension/godot-cpp/
