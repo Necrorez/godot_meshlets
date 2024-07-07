@@ -1,0 +1,9 @@
+ 
+[configuration]
+
+entry_symbol = "meshlet_library_init"
+compatibility_minimum = "4.1"
+
+[libraries]
+
+linux.debug.x86_64 = "res://libgodot_meshlets.linux.template_debug.x86_64.so"
